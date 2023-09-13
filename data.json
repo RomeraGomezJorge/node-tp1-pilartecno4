@@ -1,0 +1,174 @@
+{
+  "stars": [
+    {
+      "id": 1,
+      "name": "Sirius",
+      "type": "Estrella binaria, Secuencia Principal (tipo A1V)",
+      "distancia": "8.6 años luz",
+      "mass": "2.02 masas solares",
+      "radius": "1.711 radios solares",
+      "temperature": "9,940 K",
+      "luminosity": "25.4 luminosidades solares",
+      "age": "200-300 millones de años",
+      "composition": {
+        "hydrogen": "71%",
+        "helium": "27%",
+        "otros_elementos": "2%"
+      },
+      "stellar_history": "Sirius es una de las estrellas más brillantes en el cielo nocturno y es una estrella binaria compuesta por Sirius A y Sirius B. Es una estrella blanca de la secuencia principal que ha consumido la mayor parte de su hidrógeno y se encuentra en una etapa avanzada de su vida."
+    },
+    {
+      "id": 2,
+      "name": "Proxima Centauri",
+      "type": "Enana roja",
+      "distancia": "4.24 años luz",
+      "mass": "0.123 masas solares",
+      "radius": "0.154 radios solares",
+      "temperature": "3,042 K",
+      "luminosity": "0.0017 luminosidades solares",
+      "age": "5-6 mil millones de años",
+      "composition": {
+        "hydrogen": "91.15%",
+        "helium": "8.85%",
+        "otros_elementos": "0.00%"
+      },
+      "stellar_history": "Proxima Centauri es una enana roja que forma parte del sistema estelar Alfa Centauri. Es la estrella más cercana al sistema solar y es mucho más tenue que el Sol. Debido a su proximidad, es un objetivo de interés para la búsqueda de exoplanetas habitables."
+    },
+    {
+      "id": 3,
+      "name": "Alpha Centauri A",
+      "type": "Estrella enana G2V (tipo similar al Sol)",
+      "distancia": "4.37 años luz",
+      "mass": "1.1 masas solares",
+      "radius": "1.22 radios solares",
+      "temperature": "5,777 K",
+      "luminosity": "1.56 luminosidades solares",
+      "age": "5-6 mil millones de años",
+      "composition": {
+        "hydrogen": "74%",
+        "helium": "24%",
+        "otros_elementos": "2%"
+      },
+      "stellar_history": "Alpha Centauri A es la estrella principal del sistema estelar Alpha Centauri. Tiene características similares al Sol y es parte de un sistema triple de estrellas que incluye Alpha Centauri B y Proxima Centauri."
+    },
+    {
+      "id": 4,
+      "name": "Betelgeuse",
+      "type": "Supergigante roja",
+      "distancia": "640 años luz",
+      "mass": "11.6-19 masas solares",
+      "radius": "1,180-1,300 radios solares",
+      "temperature": "3,000-3,500 K",
+      "luminosity": "100,000-200,000 luminosidades solares",
+      "age": "8-10 millones de años",
+      "composition": {
+        "hydrogen": "85%",
+        "helium": "13%",
+        "otros_elementos": "2%"
+      },
+      "stellar_history": "Betelgeuse es una supergigante roja en la constelación de Orión. Es una de las estrellas más grandes y luminosas conocidas y se encuentra en una etapa avanzada de su evolución, que culminará en una supernova en algún momento en el futuro."
+    },
+    {
+      "id": 5,
+      "name": "Vega",
+      "type": "Estrella de secuencia principal (tipo A0V)",
+      "distancia": "25.3 años luz",
+      "mass": "2.15 masas solares",
+      "radius": "2.1 radios solares",
+      "temperature": "9,632 K",
+      "luminosity": "40 luminosidades solares",
+      "age": "455 millones de años",
+      "composition": {
+        "hydrogen": "72%",
+        "helium": "27%",
+        "otros_elementos": "1%"
+      },
+      "stellar_history": "Vega es una estrella de la constelación de Lyra y es una de las más brillantes en el cielo nocturno. Es una estrella joven que aún se encuentra en la secuencia principal de su evolución."
+    },
+    {
+      "id": 6,
+      "name": "Rigel",
+      "type": "Supergigante azul",
+      "distancia": "860 años luz",
+      "mass": "17-23 masas solares",
+      "radius": "71 radios solares",
+      "temperature": "11,000 K",
+      "luminosity": "85,000 luminosidades solares",
+      "age": "10 millones de años",
+      "composition": {
+        "hydrogen": "75%",
+        "helium": "23%",
+        "otros_elementos": "2%"
+      },
+      "stellar_history": "Rigel es la estrella más brillante de la constelación de Orión y una de las estrellas más masivas conocidas."
+    },
+    {
+      "id": 7,
+      "name": "Aldebarán",
+      "type": "Gigante roja",
+      "distancia": "65 años luz",
+      "mass": "1.1 masas solares",
+      "radius": "44.2 radios solares",
+      "temperature": "3,900 K",
+      "luminosity": "518 luminosidades solares",
+      "age": "6.8 mil millones de años",
+      "composition": {
+        "hydrogen": "65%",
+        "helium": "34%",
+        "otros_elementos": "1%"
+      },
+      "stellar_history": "Aldebarán es la estrella más brillante de la constelación de Tauro. Es una gigante roja en una etapa avanzada de su evolución."
+    },
+    {
+      "id": 8,
+      "name": "Polaris",
+      "type": "Estrella de secuencia principal (tipo F7Ib)",
+      "distancia": "323 años luz",
+      "mass": "5.4 masas solares",
+      "radius": "37.5 radios solares",
+      "temperature": "6,026 K",
+      "luminosity": "2,500 luminosidades solares",
+      "age": "70-100 millones de años",
+      "composition": {
+        "hydrogen": "70%",
+        "helium": "29%",
+        "otros_elementos": "1%"
+      },
+      "stellar_history": "Polaris, también conocida como la Estrella del Norte, es una estrella de la constelación de la Osa Menor y es famosa por su uso en la navegación como referencia para encontrar el Polo Norte celestial."
+    },
+    {
+      "id": 9,
+      "name": "Antares",
+      "type": "Supergigante roja",
+      "distancia": "550 años luz",
+      "mass": "12-18 masas solares",
+      "radius": "680-800 radios solares",
+      "temperature": "3,600-3,800 K",
+      "luminosity": "65,000 luminosidades solares",
+      "age": "10-15 millones de años",
+      "composition": {
+        "hydrogen": "71%",
+        "helium": "27%",
+        "otros_elementos": "2%"
+      },
+      "stellar_history": "Antares es la estrella más brillante de la constelación de Escorpio y una de las supergigantes rojas más grandes conocidas. Se encuentra en una etapa avanzada de su evolución."
+    },
+    {
+      "id": 10,
+      "name": "Polux",
+      "type": "Gigante naranja",
+      "distancia": "34 años luz",
+      "mass": "1.1 masas solares",
+      "radius": "10 radios solares",
+      "temperature": "4,020 K",
+      "luminosity": "40 luminosidades solares",
+      "age": "1.2 mil millones de años",
+      "composition": {
+        "hydrogen": "34%",
+        "helium": "65%",
+        "otros_elementos": "1%"
+      },
+      "stellar_history": "Polux es una gigante naranja en la constelación de Géminis. Es una estrella en una fase avanzada de su evolución y está enriquecida en helio debido a su edad."
+    }
+  ]
+}
