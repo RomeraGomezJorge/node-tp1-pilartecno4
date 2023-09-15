@@ -1,10 +1,13 @@
-import { allStarts, createStar, getStarById } from './controller/controller.js';
 import {Router} from "express";
+import {getStarsController} from "./controller/getStarsController.js";
+import {getStarController} from "./controller/getStart.controller.js";
+import {postStartController} from "./controller/postStart.controller.js";
+import {starCreateRequest} from "./middleware/starCreateRequest.js";
 
 const router = Router();
 
-router.get('/', allStarts);
-router.post('/', createStar);
-router.get('/:id', getStarById);
+router.get('/', getStarsController);
+router.post('/', starCreateRequest,postStartController);
+router.get('/:id', getStarController);
 
 export { router };
